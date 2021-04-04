@@ -22,3 +22,22 @@ body {
   overflow: auto;
   float: left;
 }
+
+/***About***/
+#about .full-width {
+  padding: 80px 0;
+}
+
+#about h2 {
+  font-family: bold ‘Lora’, serif;
+  font-size: 36px;
+  padding-left: 50px;
+}
+
+#about p {
+  font-size: 21px;
+  color: #7f7f7f;
+  line-height: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
