@@ -26,7 +26,7 @@ body {
 /***Header***/
 header {
   height: 800px;
-  background: url('../img/desk-background.png');
+  background-image: url(../img/desk-background.png);
   background-size: cover;
   background-position: center;
 }
