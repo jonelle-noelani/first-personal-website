@@ -166,3 +166,11 @@ header h2 span {
 #contact ul img {
   padding-right: 48px;
 }
+
+/**PROJECT PAGE**/
+.proj-card {
+  width: 300px;
+  height: 500px;
+  border: solid 3px magenta;
+  margin: 0px 25px;
+}
