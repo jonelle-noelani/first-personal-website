@@ -40,7 +40,7 @@ header h1 {
 
 nav {
   float: right; 
-  padding: 75px 25px;
+  padding: 75px 5px;
 }
 nav ul li{
   display: inline-block;
@@ -50,7 +50,7 @@ nav ul li a {
   text-decoration: none;
   font-size: 18px;
   color: #828282;
-  padding-left: 80px; 
+  padding-left: 40px; 
 }
 
 header h2 {
