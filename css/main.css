@@ -185,4 +185,5 @@ header h2 span {
   background: rgb(23, 247, 23);
   display: inline-block;
   margin: 0 15px;
+  vertical-align: middle;
 }
