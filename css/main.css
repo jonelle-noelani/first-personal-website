@@ -177,19 +177,31 @@ header h2 span {
   width: 300px;
   height: 500px;
   border: solid 3px magenta;
-  margin: 25px;
+  margin-left: 50px;
+  margin-top: 40px;
+  float: left;
 }
 
+.proj-card h2 {
+  font-family: 'Lora', serif;
+  text-align: center; 
+  margin: 0;
+}
 .proj-card ul {
-  background-color: magenta;
+  /* background-color: magenta; */
   text-align: center;
   padding: 0 20px;
   margin: 5px 0;
 }
 
 .proj-card ul li {
-  background: rgb(23, 247, 23);
+  /* background: rgb(139, 167, 139); */
   display: inline-block;
   margin: 0 15px;
   vertical-align: middle;
+}
+
+.proj-card p {
+  text-align: justify;
+  margin: 0 15px;
 }
