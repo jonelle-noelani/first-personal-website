@@ -168,17 +168,23 @@ header h2 span {
 }
 
 /**PROJECT PAGE**/
+#proj-header {
+  background: chartreuse;
+  height: 200px;
+}
+
 .proj-card {
   width: 300px;
   height: 500px;
   border: solid 3px magenta;
-  margin: 0px 25px;
+  margin: 25px;
 }
 
 .proj-card ul {
   background-color: magenta;
   text-align: center;
   padding: 0 20px;
+  margin: 5px 0;
 }
 
 .proj-card ul li {
