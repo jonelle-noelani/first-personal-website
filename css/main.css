@@ -174,3 +174,15 @@ header h2 span {
   border: solid 3px magenta;
   margin: 0px 25px;
 }
+
+.proj-card ul {
+  background-color: magenta;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.proj-card ul li {
+  background: rgb(23, 247, 23);
+  display: inline-block;
+  margin: 0 15px;
+}
